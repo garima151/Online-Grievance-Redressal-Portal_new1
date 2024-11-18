@@ -2,6 +2,6 @@
 		<div class="container">
 			 
 
-		<b class="copyright">&copy; 2023 Grievance Redressal Portal </b> Made with ❤️ by <a href="https://www.linkedin.com/in/soumyajitds/">Soumyajit Dey Sarkar</a>
+		<b class="copyright">&copy; 2024 Online Grievance Redressal Portal </b> Made with ❤️ by <a >Garima Samaddar</a>
 		</div>
 	</div>
